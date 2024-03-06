@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251046000926",
+    "project_id": "crimicheck-faf96",
+    "storage_bucket": "crimicheck-faf96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251046000926:android:5732cb537c43763f23310f",
+        "android_client_info": {
+          "package_name": "com.example.criminal_records"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJE9Yb28xwWImx5_NQkqtdiUKJ-59y04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
