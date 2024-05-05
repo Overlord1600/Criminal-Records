@@ -11,10 +11,10 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyDsJE9Yb28xwWImx5_NQkqtdiUKJ-59y04",
-          appId: "1:251046000926:android:5732cb537c43763f23310f",
-          messagingSenderId: "251046000926",
-          projectId: "crimicheck-faf96"));
+          apiKey: "",
+          appId: "",
+          messagingSenderId: "",
+          projectId: ""));
   setup();
   SystemChrome.setPreferredOrientations(
       [DeviceOrientation.portraitDown, DeviceOrientation.portraitUp]);
